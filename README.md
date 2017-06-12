@@ -1,7 +1,7 @@
 # Pandoc and reveal.js - simple, beautiful slides
 ## Getting started
 
-Install pandoc and execute the following commands to clone this repository and convert the markdown file to beautiful html presentation.
+Install pandoc and execute the following commands to clone this repository and convert the markdown file to a beautiful html presentation.
 ```
 >>> git clone https://github.com/TammoR/pandoc_to_reveal
 >>> cd pandoc_to_reveal
