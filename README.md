@@ -2,6 +2,8 @@
 
 Clone the repository and run
 ```
+>>> git clone https://github.com/TammoR/pandoc_to_reveal
+>>> cd pandoc_to_reveal
 >>> pandoc -t revealjs -s -o myslides.html pandoc_test.md -V revealjs-url=http://lab.hakim.se/reveal-js -V theme=sky --mathjax --slide-level=2 --css pandoc_test.css
 ```
 
