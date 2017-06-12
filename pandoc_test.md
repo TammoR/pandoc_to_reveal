@@ -15,7 +15,7 @@ print("hello world")
 
 ## Size can be given in curly brackets
 ``` ![placeholder](./calc_digit_data.png){height=100px} ```
-![placeholder](./calc_digit_data.png){height=200px}
+![placeholder](./figures/calc_digit_data.png){height=200px}
 
 
 # Mutiple columns are done using html

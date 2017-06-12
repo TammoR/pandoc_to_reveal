@@ -16,15 +16,15 @@ date: June 12, 2017
 <div class="column" style="float:left; width: 50%">
 $$ $$
 <span class="fragment (appear)" data-fragment-index="1"><p>
-![](./calc_digit_data.png)
+![](./figures/calc_digit_data.png)
 </div>
 <div class="column" style="float:left; width: 50%">
 <span class="fragment (appear)" data-fragment-index="2"><p>
-![](./calc_digit_factor.png)
+![](./figures/calc_digit_factor.png)
 </div>
 <div class="column" style="float:left; width: 100%">
 <span class="fragment (appear)" data-fragment-index="3"><p>
-![](./calc_example.png)
+![](./figures/calc_example.png)
 </div>
 
 ## Probabilistic Generative Model
