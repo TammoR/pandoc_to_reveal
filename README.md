@@ -13,12 +13,14 @@ This should create myslide.html, demonstrating some standard features
 * formatting multiple columns
 * including LaTeX rendered equations
 
+To modify the presentation edit the corresponding `.md` file. A good markdown cheat-sheet is available [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
 You can render the html using githubs hmlpreview tool
 ```
 http://htmlpreview.github.io/?https://github.com/TammoR/pandoc_to_reveal/blob/master/pandoc_test.html
 ```
 # Get a pdf version of your slides
-Open your slides in the browser and add ?print-pdf to the URL. E.g. using the htmlpreview tool:
+Open your slides in the browser and add `?print-pdf` to the URL. E.g. using the htmlpreview tool:
 ```
 http://htmlpreview.github.io/?https://github.com/TammoR/pandoc_to_reveal/blob/master/pandoc_test.html?print-pdf
 ```
