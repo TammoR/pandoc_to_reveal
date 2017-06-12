@@ -11,7 +11,7 @@ This should create myslide.html, demonstrating some standard features
 * formatting multiple columns
 * including LaTeX rendered equations
 
-```markdown
+```
 ---
 author: Tammo Rukat
 title: Demo
