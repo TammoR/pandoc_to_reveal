@@ -1,4 +1,4 @@
-# Pandoc and reveal.js -- presentations simple and beautiful
+# Pandoc and reveal.js -- simple, beautiful slides
 ## Getting started
 
 Clone the repository and run
