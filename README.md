@@ -11,6 +11,11 @@ This should create myslide.html, demonstrating some standard features
 * formatting multiple columns
 * including LaTeX rendered equations
 
+You can render the html using githubs hmlpreview tool
+```
+http://htmlpreview.github.io/?https://github.com/TammoR/pandoc_to_reveal/blob/master/pandoc_test.html
+```
+
 Content of the markdown file:
 ```
 ---
