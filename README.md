@@ -17,8 +17,14 @@ You can render the html using githubs hmlpreview tool
 ```
 http://htmlpreview.github.io/?https://github.com/TammoR/pandoc_to_reveal/blob/master/pandoc_test.html
 ```
+# Get a pdf version of your slides
+Open your slides in the browser and add ?print-pdf to the URL. E.g. using the htmlpreview tool:
+```
+http://htmlpreview.github.io/?https://github.com/TammoR/pandoc_to_reveal/blob/master/pandoc_test.html?print-pdf
+```
+Then you can use your browsers print function (might need some adjustment of margins) to create a PDF.
 
-Content of the markdown file:
+# Content of the markdown file
 ```
 ---
 author: Tammo Rukat
