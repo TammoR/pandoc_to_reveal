@@ -33,3 +33,19 @@ col2
 * requires ```--mathjax``` option
 * Inline with ```$x^2$```: $x^2$
 * Single line with ```$$\sqrt{x}$$```: $$\sqrt{x}$$
+
+
+# Fragmented appearance
+
+## Example
+<span class="fragment (appear)" data-fragment-index="1"><p>
+Things can appear
+
+<span class="fragment (appear)" data-fragment-index="2"><p>
+one
+
+<span class="fragment (appear)" data-fragment-index="3"><p>
+by
+
+<span class="fragment (appear)" data-fragment-index="4"><p>
+one
