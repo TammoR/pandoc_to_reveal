@@ -7,7 +7,7 @@ date: June 12, 2017
 # Motivation
 
 ## Single Cell Gene Expression
-![](./mouse_data.png)
+![](./figures/mouse_data.png)
 
 
 # Boolean Matrix Factorisation
