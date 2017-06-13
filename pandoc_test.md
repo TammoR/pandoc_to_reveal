@@ -33,7 +33,7 @@ col2
 * requires ```--mathjax``` option
 * Inline with ```$x^2$```: $x^2$
 * Single line with ```$$\sqrt{x}$$```: $$\sqrt{x}$$
-
+* Do fraction just like CH: $\frac{p(x|y)}{p(x)}$
 
 # Fragmented appearance
 
