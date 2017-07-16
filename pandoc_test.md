@@ -18,12 +18,12 @@ print("hello world")
 ![placeholder](./figures/calc_digit_data.png){height=200px}
 
 
-# Mutiple columns are done using html
+# For mutiple columns we need to use html code
 <div class="column" style="float:left; width: 50%">
-col1
+column1
 </div>
 <div class="column" style="float:left; width: 50%">
-col2
+column2
 </div>
 
 
